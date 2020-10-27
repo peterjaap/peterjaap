@@ -1,4 +1,5 @@
-### Hi there 👋
+![@peterjaap](https://user-images.githubusercontent.com/431360/97303386-9f14dd00-185a-11eb-9683-47fbf3ffbede.png)
+<a href="https://twitter.com/peterjaap"><img alt="Git Stats" src="https://img.shields.io/twitter/follow/peterjaap?style=for-the-badge"/></a>
 
 <!--
 **peterjaap/peterjaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
