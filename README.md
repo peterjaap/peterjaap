@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* Work: [elgentos.nl](https://elgentos.nl)
+* My book: [Mastering CLI Tools in Modern PHP](https://masteringclitools.com)
+* Side-project: [kapiteinkoko.nl](https://kapiteinkoko.nl)
+* Podcast: [The Registry Magento Podcast for devs](https://podcast.theregistry.io)
+* Blog: [p16r.nl](https://p16r.nl)
